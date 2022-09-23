@@ -1,6 +1,6 @@
 import './App.css';
 import { HashRouter } from 'react-router-dom';
-import MRouter from './router/index'
+import MRouter from './router'
 
 function App() {
   return (
